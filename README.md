@@ -12,11 +12,7 @@ Email Me 👉 ✉️ **madhavgill35@gamil.com** For Collaboration/Project or Any
 ![](https://github-readme-stats.vercel.app/api?username=manav-gill&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manav-gill&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manav-gill&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manav-gill&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manav-gill&icon=0&color=0)](https://visitcount.itsvg.in)
